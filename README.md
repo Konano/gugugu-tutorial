@@ -1,4 +1,4 @@
-# gugugu-tutorial
+# gugugu-tutorial ![gugu badge](https://img.shields.io/badge/already-gugugu-yellowgreen)
 
 本教程将会教你如何顺利地咕咕咕。
 
